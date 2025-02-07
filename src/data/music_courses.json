@@ -1,0 +1,71 @@
+{
+    "courses": [
+        {
+            "id": 1,
+            "title": "Gitar Fundamentals",
+            "slug": "guitar-fundamental",
+            "description": " lorem i am here to teach you how to play guitar ",
+            "price": 99.99,
+            "instructor": "Jhon Dey",
+            "isFeatured": true,
+            "image":""
+
+        },
+        {
+            "id": 2,
+            "title": "Gitar Fundamentals",
+            "slug": "guitar-fundamental",
+            "description": " lorem i am here to teach you how to play guitar ",
+            "price": 99.99,
+            "instructor": "Jhon Dey",
+            "isFeatured": true,
+            "image":""
+
+        },
+        {
+            "id": 3,
+            "title": "Gitar Fundamentals",
+            "slug": "guitar-fundamental",
+            "description": " lorem i am here to teach you how to play guitar ",
+            "price": 99.99,
+            "instructor": "Jhon Dey",
+            "isFeatured": true,
+            "image":""
+
+        },
+        {
+            "id": 4,
+            "title": "Gitar Fundamentals",
+            "slug": "guitar-fundamental",
+            "description": " lorem i am here to teach you how to play guitar ",
+            "price": 99.99,
+            "instructor": "Jhon Dey",
+            "isFeatured": true,
+            "image":""
+
+        },
+        
+        {
+            "id": 5,
+            "title": "Gitar Fundamentals",
+            "slug": "guitar-fundamental",
+            "description": " lorem i am here to teach you how to play guitar ",
+            "price": 99.99,
+            "instructor": "Jhon Dey",
+            "isFeatured": true,
+            "image":""
+
+        },
+        {
+            "id": 6,
+            "title": "Gitar Fundamentals",
+            "slug": "guitar-fundamental",
+            "description": " lorem i am here to teach you how to play guitar ",
+            "price": 99.99,
+            "instructor": "Jhon Dey",
+            "isFeatured": true,
+            "image":""
+
+        }
+    ]
+}
