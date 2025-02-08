@@ -64,7 +64,7 @@
             "price": 99.99,
             "instructor": "Jhon Dey",
             "isFeatured": true,
-            "image":""
+            "image":"/img1.jpg"
 
         }
     ]
